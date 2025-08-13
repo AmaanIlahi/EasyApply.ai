@@ -47,3 +47,4 @@ AI-assisted job application toolkit: upload or paste your resume, clean & summar
 
 ## Architecture
 
+![System Architecture](docs/easyapply_architecture_v3.png)
